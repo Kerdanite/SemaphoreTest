@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreTest", "SemaphoreTest\SemaphoreTest.csproj", "{52341143-1257-40EA-B09E-23204EBBF1A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterSemaphore", "WaterSemaphore\WaterSemaphore.csproj", "{9126C61E-3097-45EA-B3BF-C6504E5403CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52341143-1257-40EA-B09E-23204EBBF1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52341143-1257-40EA-B09E-23204EBBF1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52341143-1257-40EA-B09E-23204EBBF1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52341143-1257-40EA-B09E-23204EBBF1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9126C61E-3097-45EA-B3BF-C6504E5403CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9126C61E-3097-45EA-B3BF-C6504E5403CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9126C61E-3097-45EA-B3BF-C6504E5403CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9126C61E-3097-45EA-B3BF-C6504E5403CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B5E600-F8A1-454C-B8F1-6461E9B8384B}
+	EndGlobalSection
+EndGlobal
